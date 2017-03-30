@@ -61,6 +61,6 @@
 | aligned    |     aligned |   aligned    |
 
 
--[ ] aaaa
--[ ] bbbb
--[ ] cccc
+- [ ] aaaa
+- [ ] bbbb
+- [ ] cccc
